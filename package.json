@@ -16,5 +16,8 @@
     "practise"
   ],
   "author": "Belial_Dev (Lauren Brender)",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
